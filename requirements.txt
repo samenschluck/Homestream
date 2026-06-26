@@ -2,3 +2,4 @@ flask>=3.0
 mss>=9.0
 pillow>=10.0
 qrcode>=8.0
+pyngrok>=7.0
